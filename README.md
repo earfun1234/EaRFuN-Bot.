@@ -113,7 +113,7 @@ The owner of **Anik-Bot** is [〲EaRFuN卝 চৌধুরি ツ࿐](https://ww
 
 
 ## 🔧 **Installation**  
-Follow these steps to install and run Anik-Bot:
+Follow these steps to install and run Earfun-Bot:
 
 ### 1. Fork the Repository  
 Click on the "Fork" button at the top-right of this page to create a copy of this repository under your GitHub account.
